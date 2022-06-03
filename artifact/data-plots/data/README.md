@@ -1,0 +1,5 @@
+## CSV data structure
+
+`data-plots/data` directory contains data of all the measurement required to generate plots measured in the paper. The data are stored in csv format each starting with a header. The files follow 2 different header structures: 
+- *stencil measurements* (`stencil_*` files) -- `alg` row specifies indexing technique (static or dynamic) and `time` row specifies execution time of one stencil computation iteration.
+- *matrix multiplication measurements* (`matmul_*` files) -- Rows `s1,s2,s3` specify layouts of left-side, right-side and output matrix in this order (the notation used for these rows is the same as the one described in the paper). Rows `transform,action,overall` specify execution times of (1) layout transformation of all matrices from row-major to the one specified in the first three rows, (2) matrix multiplication execution time and (3) the wall time of the whole experiment step including transformation, multiplication, data allocation, etc.

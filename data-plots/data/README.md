@@ -1,4 +1,4 @@
-## CSV data structure
+# CSV data structure
 
 `data-plots/data` directory contains data of all the measurement required to generate plots measured in the paper. The data are stored in csv format each starting with a header. The files follow 2 different header structures: 
 - *stencil measurements* (`stencil_*` files) -- `alg` row specifies indexing technique (static or dynamic) and `time` row specifies execution time of one stencil computation iteration.

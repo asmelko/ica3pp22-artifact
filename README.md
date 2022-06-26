@@ -3,6 +3,8 @@
 This is a repliaction package containing code and experimental results related to a ICA3PP paper titled:  **Astute Approach to Handling Memory Layouts of Regular Data Structures**
 <!-- ICA3PP submission number for the paper: **75** -->
 
+The Noarr library itself is kept in a [separate repository](https://github.com/ParaCoToUl).
+
 ## Overview
 
 The artifact comprises the following directories:
@@ -64,7 +66,7 @@ sudo R -e "install.packages('cowplot', repos='https://cloud.r-project.org')"
 sudo R -e "install.packages('sitools', repos='https://cloud.r-project.org')" 
 ```
 
-## Experiments execution
+## Running the experiments
 
 **Kick the tires:**
 

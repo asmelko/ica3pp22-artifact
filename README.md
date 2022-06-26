@@ -1,6 +1,6 @@
 # Artifact Submission: noarr-structures
 
-Title of the submitted paper:  **Astute Approach to Handling Memory Layouts of Regular Data Structures**
+This is a repliaction package containing code and experimental results related to a ICA3PP paper titled:  **Astute Approach to Handling Memory Layouts of Regular Data Structures**
 <!-- ICA3PP submission number for the paper: **75** -->
 
 ## Overview

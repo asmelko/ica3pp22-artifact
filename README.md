@@ -3,7 +3,7 @@
 This is a repliaction package containing code and experimental results related to a ICA3PP paper titled:  **Astute Approach to Handling Memory Layouts of Regular Data Structures**
 <!-- ICA3PP submission number for the paper: **75** -->
 
-The Noarr library itself is kept in a [separate repository](https://github.com/ParaCoToUl).
+The Noarr library itself is kept in a [separate repository](https://github.com/ParaCoToUl/noarr-structures).
 
 ## Overview
 

@@ -64,6 +64,7 @@ Afterwards, R packages needs to be installed:
 sudo R -e "install.packages('ggplot2', repos='https://cloud.r-project.org')"
 sudo R -e "install.packages('cowplot', repos='https://cloud.r-project.org')"
 sudo R -e "install.packages('sitools', repos='https://cloud.r-project.org')" 
+sudo R -e "install.packages('viridis', repos='https://cloud.r-project.org')" 
 ```
 
 ## Running the experiments
